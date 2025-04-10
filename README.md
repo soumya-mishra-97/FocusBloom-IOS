@@ -21,7 +21,7 @@ The app helps you focus on tasks by offering time-bound sessions in different mo
 ## Screenshots
 
 ### Home
-<img src="https://github.com/user-attachments/assets/6c78f948-4914-4b82-adef-adc4830094f7" alt="Home" width="300" height="100"/>
+<img src="https://github.com/user-attachments/assets/6c78f948-4914-4b82-adef-adc4830094f7" alt="Home" width="300"/>
 
 ### Focus Session
 <img src="https://github.com/user-attachments/assets/4b302d03-4055-49a6-8609-eea7ae55e30e" alt="Session" width="300"/>
