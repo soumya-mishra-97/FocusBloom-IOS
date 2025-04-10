@@ -1,12 +1,12 @@
 ## FocusBloom-IOS
 - User Focus & Productivity iOS Application.
 
-FocusBloom is a productivity app built with 
+- FocusBloom is a productivity app built with 
 **SwiftUI**, 
 **MVVM architecture**, and 
 **Combine**. 
 
-**Objective**
+**Objective: - **
 The app helps you focus on tasks by offering time-bound sessions in different modes (Work, Play, Rest, Sleep) and rewards you with badges and points.
 
 **Features**
