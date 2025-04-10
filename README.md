@@ -1,4 +1,4 @@
-**FocusBloom-IOS**
+## FocusBloom-IOS
 - User Focus & Productivity iOS Application.
 
 FocusBloom is a productivity app built with 
